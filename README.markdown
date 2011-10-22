@@ -1,3 +1,6 @@
+==This README has been updated!
+==OCT 22== Should be playing video games and relaxing this weekend, but instead am working on learning Ruby on Rails!
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
